@@ -1,6 +1,6 @@
 # Jiahui-Li 
 
-gs-admit@columbia.edu[gs](mailto:gs-admit@columbia.edu)
+gs-admit@columbia.edu[](mailto:gs-admit@columbia.edu)
 
 
 ## Report Academic Fraud 
