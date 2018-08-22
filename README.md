@@ -6,7 +6,7 @@ gs-admit@columbia.edu[](mailto:gs-admit@columbia.edu)
 ## Report Academic Fraud 
 Dear Admissions Committee,
 
-I would like to report an academic fraud of an admitted class 2021 undergraduate students in GS Columbia. He is Jiahui Li (李嘉晖) from China. He is known to conceal and forge his experience on his application’s material. These disclosure receives a substantive response in Chinese network.(https://zhuanlan.zhihu.com/p/42409706)(https://zhuanlan.zhihu.com/p/42424831)
+I would like to report an academic fraud of an admitted class 2021 undergraduate students in GS Columbia. He is Jiahui Li (李嘉晖) from China. He is known to conceal and forge his experience on his application’s material. These disclosure receives a substantive response in Chinese network.(https://zhuanlan.zhihu.com/p/42409706)  (https://zhuanlan.zhihu.com/p/42424831)
 
 I knew that GS school offers opportunities for "those students with a break of a year or more in their educational paths." However, Li conceals his undergraduate experience in Sino-German College of Technology, East China University of Science and Technology, after his graduation from high school and make up his gap year experience. The paper in 2016 he published was also supported by this university, which could be found in https://onlinelibrary.wiley.com/doi/pdf/10.1002/cssc.201601617. The proof was also given by the school’s register office which could be found in [Figure 1](https://github.com/0dd/Jiahui-Li/blob/master/Figure%201.jpg).
 
@@ -18,7 +18,7 @@ Besides, he also has academic misconduct issues, including fraudulent CV in rese
 2. He made up his research experience from Sep 2013–Jun 2015 in **Fudan University** · State Key Laboratory of Surface Physics.  — The two papers issued in this period was supported by **No. 2 Secondary School**
 Attached to East China Normal University. Which could be found in https://as-botanicalstudies.springeropen.com/track/pdf/10.1186/s40529-014-0047-5 and https://www.researchgate.net/publication/268814562_Preparation_and_properties_of_novel_building_materials_at_low_temperature
 
-The papers he presented are also facing plagiarism and data fraud. The more details information was explained in following pages (https://zhuanlan.zhihu.com/p/42409706) (https://zhuanlan.zhihu.com/p/42424831).
+The papers he presented are also facing plagiarism and data fraud. The more details information was explained in following pages (https://zhuanlan.zhihu.com/p/42409706)   (https://zhuanlan.zhihu.com/p/42424831).
 
 Please give his application material a review and reconsider his admission. The admission you give to people like him is a direct harm to those who want to apply GS.
 
